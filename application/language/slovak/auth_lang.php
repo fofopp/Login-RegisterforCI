@@ -54,6 +54,8 @@ $lang['deactivate_validation_user_id_label'] = 'ID používateľa';
 
 // Create User
 $lang['create_user_heading'] = 'Vytvoriť používateľa';
+$lang['register_photo_label'] = 'Fotografia / Avatar';
+$lang['register_user_heading'] = 'Registrácia užívateľa';
 $lang['create_user_subheading'] = 'Prosím, zadajte informácie o používateľovi nižšie.';
 $lang['create_user_fname_label'] = 'Meno:';
 $lang['create_user_lname_label'] = 'Priezvisko:';
